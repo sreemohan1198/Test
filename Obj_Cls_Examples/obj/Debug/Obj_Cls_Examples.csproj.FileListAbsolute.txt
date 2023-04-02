@@ -1,0 +1,8 @@
+C:\Users\sribh\source\repos\Obj_Cls_Examples\bin\Debug\Obj_Cls_Examples.exe.config
+C:\Users\sribh\source\repos\Obj_Cls_Examples\bin\Debug\Obj_Cls_Examples.exe
+C:\Users\sribh\source\repos\Obj_Cls_Examples\bin\Debug\Obj_Cls_Examples.pdb
+C:\Users\sribh\source\repos\Obj_Cls_Examples\obj\Debug\Obj_Cls_Examples.csproj.AssemblyReference.cache
+C:\Users\sribh\source\repos\Obj_Cls_Examples\obj\Debug\Obj_Cls_Examples.csproj.SuggestedBindingRedirects.cache
+C:\Users\sribh\source\repos\Obj_Cls_Examples\obj\Debug\Obj_Cls_Examples.csproj.CoreCompileInputs.cache
+C:\Users\sribh\source\repos\Obj_Cls_Examples\obj\Debug\Obj_Cls_Examples.exe
+C:\Users\sribh\source\repos\Obj_Cls_Examples\obj\Debug\Obj_Cls_Examples.pdb
