@@ -1,0 +1,11 @@
+C:\Users\sribh\source\repos\Sql_Storedprocedures\bin\Debug\Sql_Storedprocedures.exe.config
+C:\Users\sribh\source\repos\Sql_Storedprocedures\bin\Debug\Sql_Storedprocedures.exe
+C:\Users\sribh\source\repos\Sql_Storedprocedures\bin\Debug\Sql_Storedprocedures.pdb
+C:\Users\sribh\source\repos\Sql_Storedprocedures\bin\Debug\ClassLibrary2.dll
+C:\Users\sribh\source\repos\Sql_Storedprocedures\bin\Debug\ClassLibrary2.pdb
+C:\Users\sribh\source\repos\Sql_Storedprocedures\obj\Debug\Sql_Storedprocedures.csproj.AssemblyReference.cache
+C:\Users\sribh\source\repos\Sql_Storedprocedures\obj\Debug\Sql_Storedprocedures.csproj.SuggestedBindingRedirects.cache
+C:\Users\sribh\source\repos\Sql_Storedprocedures\obj\Debug\Sql_Storedprocedures.csproj.CoreCompileInputs.cache
+C:\Users\sribh\source\repos\Sql_Storedprocedures\obj\Debug\Sql_Storedprocedures.csproj.CopyComplete
+C:\Users\sribh\source\repos\Sql_Storedprocedures\obj\Debug\Sql_Storedprocedures.exe
+C:\Users\sribh\source\repos\Sql_Storedprocedures\obj\Debug\Sql_Storedprocedures.pdb
