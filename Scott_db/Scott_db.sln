@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33502.453
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Scott_db", "Scott_db.csproj", "{3DA620D3-B327-465F-BEB8-AF53E2B1B0F4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ClassLibrary1", "..\ClassLibrary1\ClassLibrary1.csproj", "{9C03771C-720F-4AA8-A451-87E458615A01}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3DA620D3-B327-465F-BEB8-AF53E2B1B0F4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3DA620D3-B327-465F-BEB8-AF53E2B1B0F4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3DA620D3-B327-465F-BEB8-AF53E2B1B0F4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3DA620D3-B327-465F-BEB8-AF53E2B1B0F4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9C03771C-720F-4AA8-A451-87E458615A01}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9C03771C-720F-4AA8-A451-87E458615A01}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9C03771C-720F-4AA8-A451-87E458615A01}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9C03771C-720F-4AA8-A451-87E458615A01}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6A05375C-7FB1-4182-9CAF-A035472AF26F}
+	EndGlobalSection
+EndGlobal
