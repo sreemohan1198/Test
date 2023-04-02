@@ -1,0 +1,11 @@
+C:\Users\sribh\source\repos\University_db\obj\Debug\University_db.csproj.AssemblyReference.cache
+C:\Users\sribh\source\repos\University_db\obj\Debug\University_db.csproj.SuggestedBindingRedirects.cache
+C:\Users\sribh\source\repos\University_db\obj\Debug\University_db.csproj.CoreCompileInputs.cache
+C:\Users\sribh\source\repos\University_db\bin\Debug\University_db.exe.config
+C:\Users\sribh\source\repos\University_db\bin\Debug\University_db.exe
+C:\Users\sribh\source\repos\University_db\bin\Debug\University_db.pdb
+C:\Users\sribh\source\repos\University_db\bin\Debug\ClassLibrary2.dll
+C:\Users\sribh\source\repos\University_db\bin\Debug\ClassLibrary2.pdb
+C:\Users\sribh\source\repos\University_db\obj\Debug\University_db.csproj.CopyComplete
+C:\Users\sribh\source\repos\University_db\obj\Debug\University_db.exe
+C:\Users\sribh\source\repos\University_db\obj\Debug\University_db.pdb
